@@ -1,13 +1,12 @@
 # az104-06-vm0
-Creating a Virtual Machine in Azure
-Creating a virtual machine (VM) in Azure is a straightforward process. Here's a step-by-step guide to help you get started:
+Creating a virtual machine (VM) in Azure is a straightforward process.
 
 Step-by-Step Guide to Create a Virtual Machine in Azure
 Sign in to the Azure Portal:
 
 Go to Azure Portal and sign in with your Azure account.
 
-Create a Virtual Machine: az104-06-vm0
+Create a Virtual Machine: Ex - az104-06-vm0
 
 Search for Virtual Machines: In the search bar, type "Virtual Machines" and select it from the list of services.
 
